@@ -1,0 +1,3 @@
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/OrientacaoObjetos/cmake-build-debug/CMakeFiles/OrientacaoObjetos.dir
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/OrientacaoObjetos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/OrientacaoObjetos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
