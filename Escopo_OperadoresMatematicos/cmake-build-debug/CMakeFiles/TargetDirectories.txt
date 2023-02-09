@@ -1,0 +1,3 @@
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/Escopo_OperadoresMatematicos/cmake-build-debug/CMakeFiles/Escopo_OperadoresMatematicos.dir
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/Escopo_OperadoresMatematicos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/Escopo_OperadoresMatematicos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
