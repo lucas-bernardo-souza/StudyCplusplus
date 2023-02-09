@@ -1,0 +1,3 @@
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/Constantes_DeclaracoesMultiplasVariaveis/cmake-build-debug/CMakeFiles/Constantes_DeclaracoesMultiplasVariaveis.dir
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/Constantes_DeclaracoesMultiplasVariaveis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/Constantes_DeclaracoesMultiplasVariaveis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
