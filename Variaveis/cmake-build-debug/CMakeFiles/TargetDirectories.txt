@@ -1,0 +1,3 @@
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/Variaveis/cmake-build-debug/CMakeFiles/Variaveis.dir
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/Variaveis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas.bernardo.ENGESELTPP/CLionProjects/Variaveis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
